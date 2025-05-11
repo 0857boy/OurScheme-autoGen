@@ -1,0 +1,67 @@
+# 操作系統產生的檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器/IDE 產生的檔案和目錄
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.vs/
+*.swp
+*.swo
+
+# 相依套件目錄
+node_modules/
+bower_components/
+jspm_packages/
+vendor/
+.npm/
+
+# Python 相關
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 日誌和資料庫
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+
+# 環境變數和私密資訊
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.json
+
+# 其他常見忽略檔案
+*.bak
+*.backup
+*.old
+*.new
+*.tmp
+*.temp
