@@ -11,7 +11,6 @@ print("""Welcome to OurScheme!
 > Hello
 
 > there!
-
 > @$%--3
 
 > 3.25a
