@@ -1,0 +1,13 @@
+1
+123
+-45
++7.125
+0.1
+"Hello, world!"
+"line1->\nline2"
+t
+#t
+nil
+#f
+abc
+(exit)

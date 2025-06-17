@@ -1,0 +1,38 @@
+Welcome to OurScheme!
+
+> 123
+123
+
+> -45
+-45
+
+> +7.125
+7.125
+
+> 0.1
+0.100
+
+> "Hello, world!"
+"Hello, world!"
+
+> "line1->\nline2"
+"line1->
+line2"
+
+> t
+#t
+
+> #t
+#t
+
+> nil
+nil
+
+> #f
+nil
+
+> abc
+abc
+
+>
+Thanks for using OurScheme!
